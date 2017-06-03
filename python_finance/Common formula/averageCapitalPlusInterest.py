@@ -32,6 +32,4 @@ def additionalInteres(initialAmounti,additionalAmount,interestRate,year):
                 print  '第%i年末本金加利息一共：%f' %(i+1,sum)
 
 
-additionalInteres(300000,0,0.05,5)
-
-6367
+additionalInteres(100000,10000,0.088,25)
